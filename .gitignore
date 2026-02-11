@@ -1,0 +1,17 @@
+# Virtual Environments (Your folder has two)
+.rag-venv/
+rag-env/
+
+# Python Cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Local Vector Database
+chroma/
+
+# VS Code Settings
+.vscode/
+
+# System Files
+.DS_Store

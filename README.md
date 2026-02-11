@@ -32,12 +32,15 @@ Install Ollama
 Pull the necessary models:
 
 ollama pull llama3
+
 ollama pull nomic-embed-text
 
 2. Setup & Run
 Environment: python3 -m venv .rag-venv
-             source .rag-venv/bin/activate
-             pip install -r requirements.txt
+
+   source .rag-venv/bin/activate
+   
+   pip install -r requirements.txt
    
 
 Ingestion: Place your rulebook PDFs in the data/ folder and run: python3 populate_database.py

@@ -1,1 +1,19 @@
-watchdog==6.0.0
+# Core Framework
+streamlit
+langchain
+langchain-core
+langchain-community
+
+# Vector Database & Embeddings
+chromadb
+langchain-chroma
+langchain-ollama
+
+# Document Processing
+pypdf
+unstructured
+
+# Utilities
+python-dotenv
+watchdog
+pytest

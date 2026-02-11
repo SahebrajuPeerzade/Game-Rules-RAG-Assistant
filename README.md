@@ -1,7 +1,10 @@
 🎲 Game Rules Assistant
+
 The Problem: We’ve all been there midway through a heated game of UNO Flip or Monopoly, someone plays a move that feels like "cheating." You know there's a specific rule for this situation, but nobody wants to stop the game for 10 minutes to read a PDF manual. An d also some times itm can be very tricky to find the exact rule from the rulebook.
 
+
 The Solution: I built the Game Rules Assistant to act as an instant, "unbiased referee." Instead of scrolling through PDFs, players can ask natural questions and get answers grounded strictly in the official documentation, complete with page citations to settle the debate instantly.
+
 
 🛠️ Project Architecture 
 I modularized this project to follow industry standards for AI applications, separating the data processing from the front-end interface:
